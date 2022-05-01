@@ -1,0 +1,24 @@
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.exe.config
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.csprojResolveAssemblyReference.cache
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Form1.resources
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Form2.resources
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Properties.Resources.resources
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.csproj.GenerateResource.Cache
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.pdb
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.pdb
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.exe.config
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.pdb
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.exe.config
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.exe
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\bin\Debug\Recherche dans une BDD.pdb
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.csproj.AssemblyReference.cache
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Form1.resources
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Form2.resources
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche_dans_une_BDD.Properties.Resources.resources
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.csproj.GenerateResource.cache
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.exe
+D:\Users\sebas\Code\C#\05-SQL C#\Recherche dans une BDD\Recherche dans une BDD\obj\Debug\Recherche dans une BDD.pdb

@@ -1,0 +1,377 @@
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\ApplicationInsights.config
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\csc.exe
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\vbc.exe
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll.config
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.pdb
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\EntityFramework.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Owin.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\WebGrease.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.pdb
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\EntityFramework.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csprojResolveAssemblyReference.cache
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.pdb
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\ApplicationInsights.config
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\csc.exe
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\vbc.exe
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll.config
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.pdb
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\EntityFramework.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Owin.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\WebGrease.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.pdb
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\EntityFramework.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csprojResolveAssemblyReference.cache
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.dll
+C:\Users\Sébastien\Documents\Projet Visual Studio Backup\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.pdb
+F:\MusicForFreedom\MusicForFreedom\bin\ApplicationInsights.config
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\csc.exe
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Collections.Immutable.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Reflection.Metadata.dll
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\vbc.exe
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe
+F:\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe.config
+F:\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll.config
+F:\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll
+F:\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.pdb
+F:\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.dll
+F:\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.bootstrap.dll
+F:\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.jQuery.dll
+F:\MusicForFreedom\MusicForFreedom\bin\EntityFramework.dll
+F:\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.WebForms.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Web.Infrastructure.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Owin.dll
+F:\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.dll
+F:\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.dll
+F:\MusicForFreedom\MusicForFreedom\bin\WebGrease.dll
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.pdb
+F:\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\MusicForFreedom\MusicForFreedom\bin\EntityFramework.xml
+F:\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MusicForFreedom\MusicForFreedom\bin\fr\System.Web.Optimization.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.SqlServer.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+F:\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csprojResolveAssemblyReference.cache
+F:\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.dll
+F:\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.pdb
+F:\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.Properties.Resources.resources
+F:\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csproj.GenerateResource.Cache
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\ApplicationInsights.config
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\csc.exe
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\vbc.exe
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll.config
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\MusicForFreedom.pdb
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\EntityFramework.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Owin.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\WebGrease.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.Web.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.ApplicationInsights.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\System.Web.Optimization.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Antlr3.Runtime.pdb
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Newtonsoft.Json.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\EntityFramework.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\EntityFramework.SqlServer.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\System.Web.Providers.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\System.Web.Optimization.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csproj.AssemblyReference.cache
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.Properties.Resources.resources
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csproj.GenerateResource.cache
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.dll
+D:\Users\sebas\Code\C#\MusicForFreedom\MusicForFreedom\obj\Debug\MusicForFreedom.pdb

@@ -1,0 +1,21 @@
+c:\users\sde-gouy\documents\visual studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.exe.config
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.pdb
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.csprojResolveAssemblyReference.cache
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox_et_radioButtons.CheckBoxEtRadioButton.resources
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox_et_radioButtons.Properties.Resources.resources
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.csproj.GenerateResource.Cache
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.pdb
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.exe.config
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.exe
+C:\Users\sde-gouy\Documents\Visual Studio 2012\Projects\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.pdb
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.exe.config
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.exe
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\bin\Debug\Checkbox et radioButtons.pdb
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox_et_radioButtons.CheckBoxEtRadioButton.resources
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox_et_radioButtons.Properties.Resources.resources
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.csproj.GenerateResource.cache
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.exe
+D:\Users\sebas\Code\C#\03-Maquetage d'applications\Checkbox et radioButtons\Checkbox et radioButtons\obj\Debug\Checkbox et radioButtons.pdb

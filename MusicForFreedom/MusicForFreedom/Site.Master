@@ -1,0 +1,444 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MusicForFreedom.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="fr">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Mon ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+     <%--   <%: Scripts.Render("~/bundles/modernizr") %>--%>
+    </asp:PlaceHolder>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+<link href="~/Content/templatemo_style.css" rel="stylesheet" type="text/css" />
+
+    
+    <link rel="stylesheet" href="Content/jquery-ui.min.css">
+    <script src="Scripts/Scripts/jquery.js"></script>
+    <script src="Scripts/Scripts/jquery-ui.min.js"></script>
+
+
+ 
+            <script type="text/javascript">
+                //<![CDATA[
+
+                $(init);
+
+                function init() {
+
+
+                    $("#dialog").dialog();
+
+                    //initially close dialog
+                    $("#dialog").dialog("close");
+
+
+                } // end init
+                function showContent() {
+                    $("#shadow").show();
+                } // fin de showContent
+
+                function hideContent() {
+                    $("#shadow").hide();
+                } // fin de hideContent
+                function reportSlider() {
+                    var sliderVal = $("#slider").slider("value");
+                    $("#slideOutput").html(sliderVal);
+                } // end reportSlider
+
+                function openDialog() {
+                    $("#dialog").dialog("open");
+                } // end openDialog
+
+                function closeDialog() {
+                    $("#dialog").dialog("close");
+                } // end closeDialog
+                //]]>
+                //fonction openinfo
+                        function open_infos()
+                        {
+
+                            var width = window.innerWidth
+                            if (width > 600) {
+                                width = 600;
+
+                            }
+
+                                //width = 300;
+                                height = 200;
+                                if(window.innerWidth)
+                                {
+                                        var left = (window.innerWidth-width)/2;
+                                        var top = (window.innerHeight-height)/2;
+                                }
+                                else
+                                {
+                                        var left = (document.body.clientWidth-width)/2;
+                                        var top = (document.body.clientHeight-height)/2;
+                                }
+                                window.open('StylesMusicauxPopUp.aspx', 'StylesMusicauxPopUp', 'menubar=no, scrollbars=no, top=' + top + ', left=' + left + ', width=' + width + ', height=' + height + '');
+                        }
+                
+//fin fonction open info
+  </script>
+
+    <style type="text/css">
+        #templatemo_footer_bar {
+            width: 1046px;
+        }
+    </style>
+
+</head>
+<body>
+    <form runat="server">
+<div id="templatemo_container_wrapper">
+<div id="templatemo_container">
+	<div id="templatemo_banner">
+  <div id="site_title">
+            <h1><a href="Accueil.aspx" target="_parent">Music For Free<span>music should always be free</span></a></h1>
+      </div>
+        
+        <div id="templatemo_menu">
+           <div class="dropdown" >
+                <div id="connection" ><a href="#"><asp:Label ID="lConnection" runat="server" Text="Connection"></asp:Label></a></div>
+                <div class="dropdown-content">
+                    <p><a href="Utilisateur.aspx" id="utilisateur">Utilisateur</a></p>
+                    <p><a href="Artiste.aspx" id="artiste" >Artiste</a></p>
+             </div>   
+            </div>
+            <div id="rechParStyle"><a href=# onclick="openDialog()">Recherche par Style</a></div>
+            <div id="nouveaute"><a href=# onclick="open_infos()">Nouveautés</a></div>
+            <div id="classement"><a href=#>Classement</a></div>
+        </div> <!-- end of menu -->
+
+
+
+
+
+
+    </div> <!-- end of banner -->
+    
+    <div id="templatemo_content">
+    	
+        <div id="side_column">
+        
+        	<div class="side_column_box">
+            
+            	<h2>Classement</h2>
+                
+                <div class="side_column_box_content">
+                	<div class="news_section">
+                        <h3><a href="#">Superman's Addiction</a></h3>
+                        <a href="#"><a href="#"><img src="images/superman's addiction pochette cd ad23.jpg" alt="1st" width="187"class="image_wrapper" /></a>
+                        <p>description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ipsum sem, ut lobortis dui.</p>
+                  </div>
+                        
+                    <div class="news_section">
+                        <h3><a href="#">Morituri</a></h3>
+                       <a href="#"><a href="#"><img src="images/morituri eclipse hd.jpg" alt="2nd" width="187"class="image_wrapper" /></a>                       
+                      <p>description: Sed pharetra neque vel mauris auctor ornare. Maecenas urna lorem, consectetur eget consectetur id.</p>
+                  </div>
+					
+                </div>
+                
+                <div class="bottom"></div>
+            </div>
+            
+            <div class="side_column_box">
+            
+            	<h2>Recherche par nom</h2>
+                
+                <div class="side_column_box_content">
+
+                    <form action="#" method="get">
+                      <input type="text" value="" name="q" size="10" class="inputfield" title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" />
+                      <input type="submit" name="Search" value="rechercher" alt="Search" class="submit_button" title="Search" />
+                    </form>
+                    
+                    <div class="cleaner"></div>
+                </div>
+                
+                <div class="bottom"></div>
+            </div>
+            
+        
+        </div> <!-- end of side column -->
+        
+       
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    
+    	
+    </div> <!-- end of content -->
+    
+    <div id="templatemo_footer">
+    
+    <div id="templatemo_footer_bar">
+    
+        <ul class="footer_menu">
+            <li><a href="accueil.html">Home</a></li>
+          <li><a href="conseils pour l'enregistrement.html">Conseils pour l'enregistrement</a></li>
+            <li><a href="F.A.Q.">F.A.Q.</a></li>
+            <li><a href="faites un don">Faire un don</a></li>
+            <li class="last_menu"><a href="Contact">Contact</a></li>
+        </ul>
+
+        Copyright © 2048 <a href="#">Music for free</a> | Designed by <a href="http://dreamer.eu5.org" title="Tutos gratuits dreamweaver" target="_blank">Free CSS Templates</a> | Validate <a href="http://validator.w3.org/check?uri=referer">XHTML</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+        
+    </div>
+    
+    </div> <!-- end of footer -->
+
+</div> <!-- end of container -->
+</div> <!-- end of container wrapper -->
+
+              <%--dialog2--%>
+
+
+   <div id = "dialogTab">
+
+		<div id = "dialog"
+			title = "Choisissez votre style" >
+            <asp:CheckBox ID="CheckBox1" runat="server" Text="Rechercher parmis les nouveautés" CssClass="ui-widget-shadow" />
+
+ <div onclick = "closeDialog()" id="containere">
+
+                      <div class="dropdown2">
+                          <div><a href="#"><h1><span></span>
+                              <asp:Label ID="lPop" runat="server" Text="Pop"/><span></span></h1></a></div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Electropop</a></p>
+                              <p><a href="#">Pop Folk</a></p>
+                              <p><a href="#">Pop Rock</a></p>
+                              <p><a href="#">Synthpop</a></p>
+                          </div>
+                      </div>
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#"><h1>
+                                  <asp:Label ID="Label1" runat="server" Text="Rock" /></h1></a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Alternative</a></p>
+                              <p><a href="#">Classic rock</a></p>
+                              <p><a href="#">Dark wave</a></p>
+                              <p><a href="#">Death metal</a></p>
+                              <p><a href="#">Drone</a></p>
+                              <p><a href="#">Emocore</a></p>
+                              <p><a href="#">French rock</a></p>
+                              <p><a href="#">Garage</a></p>
+                              <p><a href="#">Gothic</a></p>
+                              <p><a href="#">Grindcore</a></p>
+                              <p><a href="#">Grunge</a></p>
+                              <p><a href="#">Hard rock</a></p>
+                              <p><a href="#">Heavy métal</a></p>
+                              <p><a href="#">New wave</a></p>
+                              <p><a href="#">Power metal</a></p>
+                              <p><a href="#">Post rock</a></p>
+                              <p><a href="#">Progressive</a></p>
+                              <p><a href="#">Psychedelic</a></p>
+                              <p><a href="#">Punk</a></p>
+                              <p><a href="#">Rock'n roll</a></p>
+                              <p><a href="#">Southern rock</a></p>
+                              <p><a href="#">Trash métal</a></p>
+                          </div>
+                      </div>
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label2" runat="server" Text="Electro" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Breakbeat</a></p>
+                              <p><a href="#">Breakcore</a></p>
+                              <p><a href="#">Club</a></p>
+                              <p><a href="#">Dance</a></p>
+                              <p><a href="#">Dark ambient</a></p>
+                              <p><a href="#">Drum'n bass</a></p>
+                              <p><a href="#">Dubstep</a></p>
+                              <p><a href="#">Ebm</a></p>
+                              <p><a href="#">Electronica</a></p>
+                              <p><a href="#">Eurodance</a></p>
+                              <p><a href="#">Glitch</a></p>
+                              <p><a href="#">Hardcore</a></p>
+                              <p><a href="#">Hardtek</a></p>
+                              <p><a href="#">House</a></p>
+                              <p><a href="#">Idm</a></p>
+                              <p><a href="#">Jungle</a></p>
+                              <p><a href="#">Minimal</a></p>
+                              <p><a href="#">Minimal techno</a></p>
+                              <p><a href="#">Psytrance</a></p>
+                              <p><a href="#">Rave</a></p>
+                              <p><a href="#">Techno</a></p>
+                              <p><a href="#">Industrial techno</a></p>
+                              <p><a href="#">Trance</a></p>
+                              <p><a href="#">Trip hop</a></p>
+
+                          </div>
+                      </div>
+
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1><span></span>
+                                      <asp:Label ID="lInstrumental" runat="server" Text="Instrumental" /><span></span></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Acoustic</a></p>
+                              <p><a href="#">Ambient</a></p>
+                              <p><a href="#">Atmospheric</a></p>
+                              <p><a href="#">Downtempo</a></p>
+                              <p><a href="#">Trip</a></p>
+                              <p><a href="#">Easy Listening</a></p>
+                              <p><a href="#">Lounge</a></p>
+
+                          </div>
+                      </div>
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label4" runat="server" Text="Urban" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Gangsta Rap</a></p>
+                              <p><a href="#">Hip Hop </a></p>
+                              <p><a href="#">Rap</a></p>
+                              <p><a href="#">R'n'B</a></p>
+
+                          </div>
+                      </div>
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label5" runat="server" Text="World" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">African</a></p>
+                              <p><a href="#">Asian</a></p>
+                              <p><a href="#">Bossa nova</a></p>
+                              <p><a href="#">Celtic</a></p>
+                              <p><a href="#">Ethno </a></p>
+                              <p><a href="#">Gipsy</a></p>
+                              <p><a href="#">Flamenco</a></p>
+                              <p><a href="#">Island</a></p>
+                              <p><a href="#">Latin</a></p>
+                              <p><a href="#">Manouche</a></p>
+                              <p><a href="#">Middle eastern</a></p>
+                              <p><a href="#">Oriental</a></p>
+                              <p><a href="#">Samba</a></p>
+                              <p><a href="#">Tango</a></p>
+                              <p><a href="#">Tribal</a></p>
+
+                          </div>
+                      </div>
+
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label6" runat="server" Text="Reggae" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Dancehall</a></p>
+                              <p><a href="#">Dub</a></p>
+                              <p><a href="#">Ragga</a></p>
+                              <p><a href="#">Ska</a></p>
+                              <p><a href="#">Latin</a></p>
+
+                          </div>
+                      </div>
+
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="lGrooves" runat="server" Text="Grooves" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Disco</a></p>
+                              <p><a href="#">Funk</a></p>
+                              <p><a href="#">Groove</a></p>
+                              <p><a href="#">Jazz funk</a></p>
+                              <p><a href="#">Soul</a></p>
+
+                          </div>
+                      </div>
+
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label8" runat="server" Text="Others" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">Classical</a></p>
+                              <p><a href="#">Jazz</a></p>
+                              <p><a href="#">Jazz fusion</a></p>
+                              <p><a href="#">Orchestral</a></p>
+                              <p><a href="#">Singer-Songwriter</a></p>
+                              <p><a href="#">Acid jazz</a></p>
+                              <p><a href="#">Avant garde</a></p>
+                              <p><a href="#">Bebop</a></p>
+                              <p><a href="#">Blues</a></p>
+                              <p><a href="#">Chanson française</a></p>
+                              <p><a href="#">Chorale</a></p>
+                              <p><a href="#">Classical</a></p>
+                              <p><a href="#">Country</a></p>
+                              <p><a href="#">Experimental</a></p>
+                              <p><a href="#">Folk</a></p>
+                              <p><a href="#">Fusion</a></p>
+                              <p><a href="#">Gospel</a></p>
+                              <p><a href="#">LO-FI</a></p>
+                              <p><a href="#">New age</a></p>
+                              <p><a href="#">Symphonic</a></p>
+
+                          </div>
+                      </div>
+
+                      
+                      <div class="dropdown2">
+                          <div>
+                              <a href="#">
+                                  <h1>
+                                      <asp:Label ID="Label9" runat="server" Text="Periods" /></h1>
+                              </a>
+                          </div>
+                          <div class="dropdown-content2">
+                              <p><a href="#">60s</a></p>
+                              <p><a href="#">70s</a></p>
+                              <p><a href="#">80s</a></p>
+                              <p><a href="#">90s</a></p>
+
+                          </div>
+                      </div>
+
+                  </div>
+
+            </div> 
+       </div> 
+    </form>
+</body>
+</html>

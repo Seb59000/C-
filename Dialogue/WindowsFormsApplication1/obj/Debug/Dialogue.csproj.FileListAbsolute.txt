@@ -1,0 +1,37 @@
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dialogue.exe.config
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dialogue.exe
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dialogue.pdb
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DialogueForm.resources
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Dialogue.csproj.GenerateResource.Cache
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\dialogue.exe
+c:\users\sébastien\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\dialogue.pdb
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.exe.config
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\dialogue.exe
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\dialogue.pdb
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\Dialogue.csprojResolveAssemblyReference.cache
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DialogueForm.resources
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\Dialogue.csproj.GenerateResource.Cache
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.exe
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.pdb
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.rapport_de_plantage.resources
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Sébastien\Documents\Visual Studio 2015\Projects\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.exe.config
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.exe
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\dialogue.pdb
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\Dialogue.csproj.AssemblyReference.cache
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DialogueForm.resources
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.rapport_de_plantage.resources
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\Dialogue.csproj.GenerateResource.cache
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\Dialogue.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\dialogue.exe
+D:\Users\sebas\Code\C#\Dialogue\WindowsFormsApplication1\obj\Debug\dialogue.pdb
